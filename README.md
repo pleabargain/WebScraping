@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pleabargain/WebScraping/master)
+
 # Selenium Conference Bangalore 2016
 
 # Web Scraping and Data Analysis with Selenium and Python
